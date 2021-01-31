@@ -230,17 +230,23 @@
     font-size: 120px;
     font-weight: bold;
     z-index: 1;
+    position: absolute;
+    left: 500px;
+    top: 13px;
     margin: 0 0 70px 0;
 }
 
 .feinman__subtitle {
+    margin: 0;
+    padding-top: 7px;
+    position: absolute;
+    left: 650px;
+    top: 395px;
     text-align: center;
     line-height: 51px;
     font-size: 36px;
     font-weight: normal;
     z-index: 1;
-    margin: 0;
-    padding-top: 7px;
 }
 
 .feinman__link {
