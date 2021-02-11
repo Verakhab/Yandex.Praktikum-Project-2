@@ -1,20 +1,22 @@
 # Yandex.Praktikum-Project-2
 
-https://github.com/Verakhab/Yandex.Praktikum-Project-2
+Github: https://github.com/Verakhab/Yandex.Praktikum-Project-2
 
-Version: v.1.0.0
+gh-pages: https://verakhab.github.io/Yandex.Praktikum-Project-2/
 
-Project work #2
-Научиться учиться
+Project work #02
 
-
-
+Version: v.1.1.0
 
 ## Описание Проекта
-__Используемые технологии:__ HTML, BEM, flexbox, flow, CSS Pseudo-classes, CSS Pseudo-elements, form, font, iframe, animation, transformation, keyframes.
+
+Одностраничный сайт - Научиться учиться
+
+__Используемые технологии:__ HTML, BEM, flexbox, grid layout, positional, flow, CSS Pseudo-classes, CSS Pseudo-elements, markup and layout of forms, fonts, HTML: video, iframe, embed, API, animations and transformations.
 
 ## Локальный запуск
   ```
      Склонировать репозиторий
      Запустить с помощью браузера файл index.html
   ```
+  
